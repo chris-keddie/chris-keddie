@@ -1,4 +1,4 @@
-### Hi there 👋 General Kenobi
+### Hello there 👋 General Kenobi
 
 <!--
 **chris-keddie/chris-keddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
